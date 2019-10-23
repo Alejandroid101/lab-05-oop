@@ -2,7 +2,7 @@
 
 ## About Me
 
-Lab05-Zoo OOP
+Lab05 and Lab06-Zoo OOP
 
 Author: Enrique Rivera
 
@@ -27,7 +27,7 @@ $ git clone https://github.com/Alejandroid101/lab-05-oop.git
 ***[Add screenshots of your application in action]***
 
 #### Application Diagram
-![Image 1]()
+![Image 1](https://github.com/Alejandroid101/lab-05-oop/blob/master/assets/ZooDiagram.jpg?raw=true)
 
 
 ---
