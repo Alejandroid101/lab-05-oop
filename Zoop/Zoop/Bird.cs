@@ -15,8 +15,6 @@ namespace Zoop
         {
             return "Birds have feathers";
         }
-
-        //calling the IPettingZoo Interface
     }
 
 
