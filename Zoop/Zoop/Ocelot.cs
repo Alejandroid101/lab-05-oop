@@ -6,7 +6,6 @@ namespace Zoop
 {
     public class Ocelot : Feline
     {
-        public new string Name { get; set; }
 
         //overriding Roars property from Feline
         private string _roars = "Ocelot is roaring";

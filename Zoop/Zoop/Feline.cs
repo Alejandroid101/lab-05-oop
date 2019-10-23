@@ -7,7 +7,6 @@ namespace Zoop
 
     public abstract class Feline : Animal
     {
-        public new string Name { get; set; }
         public string NightVision { get; set; }
         public bool Fangs { get; set; } = true;
 
